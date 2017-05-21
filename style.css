@@ -1,0 +1,21 @@
+body{
+    background-color: pink;
+}
+#image-replacement{ 
+    width: 600px;
+    margin: auto;
+}
+#bigimage{
+    
+    margin: 10px;
+    text-align: center;
+}
+#thumbs{
+    
+    margin: 10px;
+    text-align: center;
+}
+#thumbs img{
+    width: 100px;
+    height: 100px;
+}
